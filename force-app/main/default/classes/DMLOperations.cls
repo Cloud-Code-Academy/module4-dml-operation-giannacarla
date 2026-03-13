@@ -17,7 +17,7 @@
  * The methods within this class serve as practical examples of different DML operations,
  * allowing developers to learn through practice and examples.
  *
- * @author Gianna C. Delacruz
+ * @author Gianna Carla Q. Delacruz
  */
 
 
